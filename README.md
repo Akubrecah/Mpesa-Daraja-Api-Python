@@ -5,7 +5,7 @@ This project demonstrates how to integrate with the Safaricom M-Pesa Daraja API 
 ## Prerequisites
 
 - Python 3.x
-- `requests` library
+- `requests`library
 
 You can install the `requests` library using pip:
 
