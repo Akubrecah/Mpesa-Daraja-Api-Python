@@ -3,12 +3,10 @@
 This project demonstrates how to integrate with the Safaricom M-Pesa Daraja API to perform Lipa na M-Pesa Online payments.
 
 ## Prerequisites
-
 - Python 3.x
 - `requests`library
 
 You can install the `requests` library using pip:
-
 ```sh
 pip install requests
 
