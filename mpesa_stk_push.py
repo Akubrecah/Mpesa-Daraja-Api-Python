@@ -7,6 +7,7 @@ from datetime import datetime
 def get_access_token():
     consumer_key = 'DDQ5qANRaPssm27S2NGOwUwQRn2bs2UxguP4ydRydAxMGqeA'
     consumer_secret = 'DNzltdXGX9hHgokxcAdWJwR4GgBQYs9FaXHuRTAEgNkSJ2VzLgWP9PhApbY0wSBT'
+    
     api_url = "https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials"
     
     # Make a request to the API to get the access token
